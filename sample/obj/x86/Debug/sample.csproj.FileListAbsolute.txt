@@ -11,3 +11,4 @@ C:\Users\yichieh_chen\Desktop\SourceCode\csharp\_sample\sample\sample\bin\Debug\
 C:\Users\yichieh_chen\Desktop\SourceCode\csharp\_sample\sample\sample\obj\x86\Debug\sample.csprojResolveAssemblyReference.cache
 C:\Users\yichieh_chen\Desktop\SourceCode\csharp\_sample\sample\sample\obj\x86\Debug\sample.exe
 C:\Users\yichieh_chen\Desktop\SourceCode\csharp\_sample\sample\sample\obj\x86\Debug\sample.pdb
+C:\Users\yichieh_chen\Desktop\SourceCode\csharp\_sample\sample\sample\obj\x86\Debug\sample.csproj.ResolveComReference.cache
